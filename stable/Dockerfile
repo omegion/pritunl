@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.13.8
 
 ARG BUILD_DATE
 ARG VCS_REF
